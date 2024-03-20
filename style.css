@@ -1,0 +1,13 @@
+.horizontal-container {
+    display: flex;
+}
+
+nav {
+    margin-right: 20px; /* Memberikan jarak antara setiap item */
+}
+
+.content {
+    margin-left: 10px; /* Memberikan jarak antara gambar dan teks */
+}
+
+
